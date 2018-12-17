@@ -1,0 +1,13 @@
+.DatosPersonales{
+	margin-top: 2%;
+	font-size: 18px;
+	background-color: #252525;
+}
+
+.row.content{
+	width: 100%;
+}
+
+#chart_div{
+	width: 100%;
+}
